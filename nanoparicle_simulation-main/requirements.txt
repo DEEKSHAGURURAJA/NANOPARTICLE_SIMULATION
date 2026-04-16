@@ -1,0 +1,12 @@
+Flask
+folium
+gunicorn
+pandas
+pygame 
+webview
+subprocess
+pathlib
+sys
+random
+math
+time
