@@ -1,10 +1,10 @@
-🌊 Microplastics Simulation & Visualization
+ Microplastics Simulation & Visualization
 
 This project simulates the spread of microplastics in water bodies and visualizes the results on an interactive map using Folium
 .
 It combines simulation logic (Python) with geospatial visualization to better understand pollution flow and accumulation.
 
-📂 Project Structure
+ Project Structure
 NANO/
  ├── app.py                        # Flask app to serve the map
  ├── depth_modified.py             # Simulation code (depth-based model)
@@ -17,7 +17,7 @@ NANO/
  │    └── microplastics_map.html   # Folium map (generated visualization)
  └── simulation_out.log            # Simulation logs
 
-🚀 How to Run Locally
+ How to Run Locally
 
 Clone the repo
 
@@ -44,7 +44,7 @@ python app.py
 Open in browser
 Navigate to http://127.0.0.1:5000/ to view the interactive map.
 
-🌐 Deployment (Render)
+Deployment (Render)
 
 Push this repo to GitHub.
 
@@ -71,7 +71,7 @@ Your app will be live at:
 
 https://your-app-name.onrender.com
 
-📊 Features
+ Features
 
 Simulates microplastic flow and accumulation.
 
@@ -81,7 +81,7 @@ Works with real datasets (.csv).
 
 Can be deployed to the web for public access.
 
-🔮 Future Improvements
+ Future Improvements
 
 Add real-time simulation updates instead of static maps.
 
